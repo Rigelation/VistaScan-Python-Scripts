@@ -1,0 +1,2 @@
+2019-04-25
+These are the core scripts that go in ProgramData/VistaScan/Scripts/Internal, necessary to operate the Auto Align (parabolic mirror) and Take Power Background (green button in Spectroscopy).

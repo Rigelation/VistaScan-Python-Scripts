@@ -1,0 +1,1 @@
+cmd /k py AlignPM-1.0-single-use-no-buttons.py %*
